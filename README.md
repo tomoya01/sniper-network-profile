@@ -1,4 +1,4 @@
-# Sniper Network Profile
+# Sniper Network Profile (Beta)
 Sniper network profile contains following network configuration rules.
 
 Currently supported rules:
